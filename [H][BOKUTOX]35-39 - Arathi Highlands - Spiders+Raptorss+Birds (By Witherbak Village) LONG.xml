@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Arathi Highlands 60/63 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 60/63 -->
+			<X>-1649.257</X>
+			<Y>-3041.771</Y>
+			<Z>23.41794</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/64 -->
+			<X>-1686.812</X>
+			<Y>-3057.86</Y>
+			<Z>21.96657</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/65 -->
+			<X>-1703.684</X>
+			<Y>-3046.415</Y>
+			<Z>28.90429</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/64 -->
+			<X>-1689.596</X>
+			<Y>-3015.537</Y>
+			<Z>32.66739</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/68 -->
+			<X>-1766.486</X>
+			<Y>-3068.179</Y>
+			<Z>34.34772</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 58/68 -->
+			<X>-1767.766</X>
+			<Y>-2985.343</Y>
+			<Z>43.92502</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/66 -->
+			<X>-1719.093</X>
+			<Y>-2944.339</Y>
+			<Z>34.66619</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 57/68 -->
+			<X>-1774.708</X>
+			<Y>-2919.447</Y>
+			<Z>48.52298</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 55/67 -->
+			<X>-1746.77</X>
+			<Y>-2847.995</Y>
+			<Z>42.69721</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 53/64 -->
+			<X>-1679.605</X>
+			<Y>-2779.707</Y>
+			<Z>46.47245</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/64 -->
+			<X>-1676.618</X>
+			<Y>-2680.779</Y>
+			<Z>43.23883</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 51/67 -->
+			<X>-1741.444</X>
+			<Y>-2703.621</Y>
+			<Z>41.74312</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 50/69 -->
+			<X>-1793.598</X>
+			<Y>-2679.038</Y>
+			<Z>52.52948</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/73 -->
+			<X>-1892.164</X>
+			<Y>-2577.456</Y>
+			<Z>57.65955</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/73 -->
+			<X>-1902.261</X>
+			<Y>-2543.683</Y>
+			<Z>57.54395</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/75 -->
+			<X>-1953.091</X>
+			<Y>-2516.911</Y>
+			<Z>73.22965</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/79 -->
+			<X>-2033.759</X>
+			<Y>-2529.119</Y>
+			<Z>70.38003</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/80 -->
+			<X>-2075.385</X>
+			<Y>-2566.687</Y>
+			<Z>73.97447</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/81 -->
+			<X>-2097.106</X>
+			<Y>-2597.661</Y>
+			<Z>81.17165</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>22</Faction>
+		<Faction>7</Faction>
+		<Faction>48</Faction>
+	</Factions>
+</Profile>

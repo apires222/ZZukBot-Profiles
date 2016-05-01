@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Western Plaguelands 46/56 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 46/56 -->
+			<X>1758.93</X>
+			<Y>-1564.167</Y>
+			<Z>61.86537</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/54 -->
+			<X>1790.106</X>
+			<Y>-1582.837</Y>
+			<Z>59.42062</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/54 -->
+			<X>1817.863</X>
+			<Y>-1618.664</Y>
+			<Z>59.06458</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 48/53 -->
+			<X>1836.317</X>
+			<Y>-1650.624</Y>
+			<Z>61.47047</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/52 -->
+			<X>1852.796</X>
+			<Y>-1639.874</Y>
+			<Z>59.95804</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 47/52 -->
+			<X>1864.509</X>
+			<Y>-1612.705</Y>
+			<Z>59.84006</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/53 -->
+			<X>1842.839</X>
+			<Y>-1552.307</Y>
+			<Z>58.91729</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/52 -->
+			<X>1854.003</X>
+			<Y>-1488.959</Y>
+			<Z>60.17004</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>21</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 82/70 -->
+			<X>1717.052</X>
+			<Y>-685.3432</Y>
+			<Z>50.89674</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 29/57 -->
+			<X>1717.565</X>
+			<Y>-872.1667</Y>
+			<Z>62.37343</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 33/60 -->
+			<X>1637.367</X>
+			<Y>-1008.871</Y>
+			<Z>75.9696</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 39/59 -->
+			<X>1647.865</X>
+			<Y>-1271.267</Y>
+			<Z>69.63966</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 43/57 -->
+			<X>1711.645</X>
+			<Y>-1460.6</Y>
+			<Z>65.69355</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

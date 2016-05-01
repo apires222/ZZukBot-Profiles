@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Felwood 45/40 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 45/40 -->
+			<X>5573.223</X>
+			<Y>-980.116</Y>
+			<Z>373.1862</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/40 -->
+			<X>5572.628</X>
+			<Y>-936.1175</Y>
+			<Z>376.6731</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/40 -->
+			<X>5581.206</X>
+			<Y>-911.5958</Y>
+			<Z>379.3253</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/40 -->
+			<X>5571.868</X>
+			<Y>-901.3148</Y>
+			<Z>378.7791</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/39 -->
+			<X>5607.661</X>
+			<Y>-918.9105</Y>
+			<Z>376.2394</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 44/38 -->
+			<X>5649.021</X>
+			<Y>-940.8578</Y>
+			<Z>378.0046</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 45/38 -->
+			<X>5664.886</X>
+			<Y>-960.6004</Y>
+			<Z>378.0431</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 46/39 -->
+			<X>5629.308</X>
+			<Y>-1021.767</Y>
+			<Z>376.794</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>16</Faction>
+	</Factions>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 46/39 -->
+			<X>5614.346</X>
+			<Y>-1046.597</Y>
+			<Z>376.6251</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>

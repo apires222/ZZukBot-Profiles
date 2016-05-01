@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Azshara 17/70 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 17/70 -->
+			<X>2956.129</X>
+			<Y>-4147.88</Y>
+			<Z>101.3183</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 16/69 -->
+			<X>2987.745</X>
+			<Y>-4134.814</Y>
+			<Z>101.5331</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 17/68 -->
+			<X>3034.792</X>
+			<Y>-4162.026</Y>
+			<Z>101.3251</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 17/67 -->
+			<X>3068.18</X>
+			<Y>-4184.114</Y>
+			<Z>97.23739</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 17/66 -->
+			<X>3097.482</X>
+			<Y>-4164.496</Y>
+			<Z>100.4484</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>21</Faction>
+	</Factions>
+</Profile>

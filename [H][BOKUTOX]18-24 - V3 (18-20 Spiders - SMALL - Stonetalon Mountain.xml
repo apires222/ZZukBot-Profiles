@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Stonetalon Mountains 59/50 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 59/50 -->
+			<X>1265.919</X>
+			<Y>340.3589</Y>
+			<Z>34.19303</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/50 -->
+			<X>1288.128</X>
+			<Y>342.0581</Y>
+			<Z>34.19658</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/49 -->
+			<X>1311.763</X>
+			<Y>343.0691</Y>
+			<Z>31.89657</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/48 -->
+			<X>1325.197</X>
+			<Y>361.7897</Y>
+			<Z>38.66212</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/48 -->
+			<X>1332.795</X>
+			<Y>360.7176</Y>
+			<Z>36.06979</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/48 -->
+			<X>1326.432</X>
+			<Y>340.6675</Y>
+			<Z>30.57074</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/49 -->
+			<X>1319.474</X>
+			<Y>318.6147</Y>
+			<Z>22.44824</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/49 -->
+			<X>1320.988</X>
+			<Y>310.1216</Y>
+			<Z>19.40978</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/48 -->
+			<X>1333.009</X>
+			<Y>289.801</Y>
+			<Z>14.97847</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/48 -->
+			<X>1336.978</X>
+			<Y>258.7741</Y>
+			<Z>13.99236</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/48 -->
+			<X>1353.657</X>
+			<Y>267.2273</Y>
+			<Z>13.62036</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/47 -->
+			<X>1381.011</X>
+			<Y>271.3698</Y>
+			<Z>14.32489</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/46 -->
+			<X>1399.552</X>
+			<Y>277.2051</Y>
+			<Z>15.27663</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/46 -->
+			<X>1403.788</X>
+			<Y>267.2062</Y>
+			<Z>13.72681</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>22</Faction>
+		<Faction>14</Faction>
+		<Faction>16</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 58/51 -->
+			<X>1231.967</X>
+			<Y>401.2964</Y>
+			<Z>64.38642</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 58/51 -->
+		<Position>
+			<X>1231.9</X>
+			<Y>402.794</Y>
+			<Z>65.38789</Z>
+		</Position>
+		<Name>Veenix</Name>
+	</Repair>
+</Profile>

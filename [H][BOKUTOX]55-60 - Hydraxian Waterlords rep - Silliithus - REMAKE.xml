@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Silithus 31/18 -->
+<Profile>
+   <Hotspots>
+      <Hotspot>
+         <!-- Pos: 31/18 -->
+         <X>-6388.94</X>
+         <Y>1449.329</Y>
+         <Z>0.5447565</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 31/17 -->
+         <X>-6356.858</X>
+         <Y>1426.075</Y>
+         <Z>3.011306</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 33/15 -->
+         <X>-6310.821</X>
+         <Y>1386.483</Y>
+         <Z>6.095787</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 34/14 -->
+         <X>-6286.236</X>
+         <Y>1347.57</Y>
+         <Z>10.49793</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 34/12 -->
+         <X>-6246.659</X>
+         <Y>1327.975</Y>
+         <Z>15.74192</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 33/12 -->
+         <X>-6253.886</X>
+         <Y>1387.31</Y>
+         <Z>18.22234</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 31/13 -->
+         <X>-6269.689</X>
+         <Y>1433.843</Y>
+         <Z>15.4981</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 30/14 -->
+         <X>-6291.568</X>
+         <Y>1463.689</Y>
+         <Z>7.790663</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 30/14 -->
+         <X>-6283.569</X>
+         <Y>1490.024</Y>
+         <Z>7.618542</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 28/16 -->
+         <X>-6336.382</X>
+         <Y>1528.118</Y>
+         <Z>1.751464</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 28/17 -->
+         <X>-6359.893</X>
+         <Y>1553.82</Y>
+         <Z>6.857643</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 28/19 -->
+         <X>-6411.213</X>
+         <Y>1529.377</Y>
+         <Z>5.866301</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 28/21 -->
+         <X>-6466.095</X>
+         <Y>1529.719</Y>
+         <Z>5.771417</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+      <Hotspot>
+         <!-- Pos: 29/20 -->
+         <X>-6438.421</X>
+         <Y>1493.698</Y>
+         <Z>7.015145</Z>
+         <Type>Hotspot</Type>
+      </Hotspot>
+   </Hotspots>
+</Profile>

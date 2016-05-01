@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Start: Stonetalon Mountains 61/65 -->
+<Profile>
+	<Hotspots>
+		<Hotspot>
+			<!-- Pos: 61/65 -->
+			<X>773.5726</X>
+			<Y>240.6758</Y>
+			<Z>23.23023</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/66 -->
+			<X>754.0931</X>
+			<Y>247.0581</Y>
+			<Z>22.89986</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/65 -->
+			<X>788.6995</X>
+			<Y>269.0672</Y>
+			<Z>21.87567</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/64 -->
+			<X>814.2545</X>
+			<Y>248.9349</Y>
+			<Z>22.30474</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/62 -->
+			<X>879.1841</X>
+			<Y>210.4014</Y>
+			<Z>23.93512</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/62 -->
+			<X>886.0905</X>
+			<Y>282.0465</Y>
+			<Z>22.28917</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/61 -->
+			<X>905.7738</X>
+			<Y>317.4014</Y>
+			<Z>21.47125</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 59/60 -->
+			<X>940.0808</X>
+			<Y>350.0608</Y>
+			<Z>22.10533</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/60 -->
+			<X>940.2645</X>
+			<Y>298.5518</Y>
+			<Z>22.45779</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 60/59 -->
+			<X>972.2091</X>
+			<Y>290.5248</Y>
+			<Z>24.40005</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/59 -->
+			<X>972.4169</X>
+			<Y>221.6482</Y>
+			<Z>22.91612</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/60 -->
+			<X>948.2514</X>
+			<Y>179.9032</Y>
+			<Z>22.75163</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 63/62 -->
+			<X>895.1823</X>
+			<Y>128.9674</Y>
+			<Z>35.26481</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 63/60 -->
+			<X>933.27</X>
+			<Y>121.9498</Y>
+			<Z>23.77138</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 63/60 -->
+			<X>945.5659</X>
+			<Y>159.3291</Y>
+			<Z>25.29045</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 62/60 -->
+			<X>961.387</X>
+			<Y>202.0124</Y>
+			<Z>22.17563</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/60 -->
+			<X>940.0531</X>
+			<Y>225.5819</Y>
+			<Z>20.83286</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/56 -->
+			<X>1086.548</X>
+			<Y>257.9542</Y>
+			<Z>16.38535</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+		<Hotspot>
+			<!-- Pos: 61/55 -->
+			<X>1115.872</X>
+			<Y>264.2828</Y>
+			<Z>15.8317</Z>
+			<Type>Hotspot</Type>
+		</Hotspot>
+	</Hotspots>
+	<Factions>
+		<Faction>22</Faction>
+		<Faction>14</Faction>
+		<Faction>16</Faction>
+		<Faction>47</Faction>
+	</Factions>
+	<VendorHotspots>
+		<VendorHotspot>
+			<!-- Pos: 58/52 -->
+			<X>1221.523</X>
+			<Y>367.8382</Y>
+			<Z>46.87858</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+		<VendorHotspot>
+			<!-- Pos: 58/51 -->
+			<X>1233.059</X>
+			<Y>403.6927</Y>
+			<Z>65.7022</Z>
+			<Type>Hotspot</Type>
+		</VendorHotspot>
+	</VendorHotspots>
+	<Repair>
+		<!-- Pos: 58/51 -->
+		<Position>
+			<X>1231.9</X>
+			<Y>402.794</Y>
+			<Z>65.38789</Z>
+		</Position>
+		<Name>Veenix</Name>
+	</Repair>
+	<GhostHotspots>
+		<GhostHotspot>
+			<!-- Pos: 58/61 -->
+			<X>918.0302</X>
+			<Y>405.4895</Y>
+			<Z>70.07399</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+		<GhostHotspot>
+			<!-- Pos: 61/62 -->
+			<X>889.7042</X>
+			<Y>244.3886</Y>
+			<Z>23.40742</Z>
+			<Type>Hotspot</Type>
+		</GhostHotspot>
+	</GhostHotspots>
+</Profile>
